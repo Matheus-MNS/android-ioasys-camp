@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Ioasys Camp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_title">ioasys camp</string>
 </resources>
