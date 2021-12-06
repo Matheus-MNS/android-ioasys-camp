@@ -11,14 +11,15 @@
         android:label="fragment_splash"
         tools:layout="@layout/fragment_splash" >
         <action
-            android:id="@+id/action_splashFragment_to_culturalFitFragment"
-            app:destination="@id/culturalFitFragment"
+            android:id="@+id/action_splashFragment_to_mainScreenFragment"
+            app:destination="@id/mainScreenFragment"
             app:popUpTo="@id/splashFragment"
             app:popUpToInclusive="true" />
     </fragment>
     <fragment
-        android:id="@+id/culturalFitFragment"
-        android:name="com.example.ioasyscamp.feature.cultural_fit.CulturalFitFragment"
-        android:label="fragment_cultural_fit"
-        tools:layout="@layout/fragment_cultural_fit" />
+        android:id="@+id/mainScreenFragment"
+        android:name="com.example.ioasyscamp.feature.main_screen.MainScreenFragment"
+        android:label="fragment_main_screen"
+        tools:layout="@layout/fragment_main_screen" />
+
 </navigation>

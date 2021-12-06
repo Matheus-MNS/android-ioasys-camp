@@ -29,9 +29,9 @@ class SplashFragment : Fragment() {
         Handler(Looper.getMainLooper()).postDelayed(
             {
                 findNavController().navigate(
-                    SplashFragmentDirections.actionSplashFragmentToCulturalFitFragment()
+                    SplashFragmentDirections.actionSplashFragmentToMainScreenFragment()
                 )
-            }, 1500
+            }, 2000
         )
     }
 }
