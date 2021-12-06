@@ -6,4 +6,11 @@
     <string name="lorem_ipsum">Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis</string>
     <string name="about_me_label">Sobre mim</string>
     <string name="cultural_fit_label">Fit Cultural</string>
+    <string name="one_question">O que você quer fazer pelo mundo?</string>
+    <string name="replace_one_question"> A cada dia que passa temos a impressão que o tempo fica cada vez mais curto, pensando nisso, criar aplicações que tornem o dia a dia mais prático e que ajudem as pessoas a otimizar seu tempo.é que gostaria de fazer pelo mundo.</string>
+    <string name="two_question">Conta pra gente um desafio que você superou e um ponto forte que te ajudou a lidar com ele?</string>
+    <string name="replace_two_question">O maior desafio que estou superando é conseguir estudar por conta própria, buscar conhecimento sobre desenvolvimento Android diariamente no meu tempo livre, saindo da zona de conforto, tendo que superar às vezes o cansaço físico e mental. Acredito que minha determinação tem sido o ponto forte que me ajuda a superar cada dia e me manter focado nos meus objetivos.</string>
+    <string name="three_question">O que te inspira no seu dia-dia de trabalho/estudo? </string>
+    <string name="replace_three_question"> Tenho como maior inspiração saber que posso melhorar todos os dias, cada dia é uma oportunidade de tentar dar o meu melhor e que um problema no caminho não necessariamente é o fim, mas sim um novo aprendizado.</string>
+
 </resources>

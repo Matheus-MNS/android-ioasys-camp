@@ -13,8 +13,6 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:backgroundTint="@color/black_opacity"
-        android:checkable="true"
-        android:clickable="true"
         android:elevation="8dp"
         android:background="@drawable/rectangle_view"
         android:focusable="true"

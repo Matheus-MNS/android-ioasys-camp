@@ -5,6 +5,8 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.example.ioasyscamp.R
+import com.example.ioasyscamp.common.changeStatusBarColor
 import com.example.ioasyscamp.databinding.FragmentMainScreenBinding
 
 class MainScreenFragment : Fragment() {
@@ -22,10 +24,15 @@ class MainScreenFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         activity?.actionBar?.elevation = 0f
+        setupView()
 
         with(binding) {
             viewPager.adapter = ViewPagerAdapter(childFragmentManager, this@MainScreenFragment)
             viewPagerTab.setupWithViewPager(viewPager)
         }
+    }
+
+    private fun setupView() {
+        changeStatusBarColor(R.color.blue)
     }
 }
