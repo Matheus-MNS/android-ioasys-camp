@@ -1,10 +1,9 @@
 <resources>
     <string name="app_name">Ioasys Camp</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="splash_title">ioasys camp</string>
     <string name="cultural_fit">Fit Cultural</string>
-    <string name="lorem_ipsum">Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá , depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mé faiz elementum girarzis, nisi eros vermeio, in elementis mé pra quem é amistosis quis leo. Manduma pindureta quium dia nois paga. Sapien in monti palavris qui num significa nadis i pareci latim. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis</string>
     <string name="about_me_label">Sobre mim</string>
+    <string name="presentation">Me chamo Matheus, tenho 24 anos formado em Sistemas de Informação pela PUC Minas, atualmente resido em Betim, estou busca de uma recolocação profissional como Desenvolvedor Android. Para atingir esse objetivo tenho buscado conhecimento por conta própria através de cursos e troca de conhecimento com amigos que já atuam na área e para desenvolver esses conhecimentos busco coloca lós em prática em pequenos projetos que crio Android Studio. </string>
     <string name="cultural_fit_label">Fit Cultural</string>
     <string name="one_question">O que você quer fazer pelo mundo?</string>
     <string name="replace_one_question"> A cada dia que passa temos a impressão que o tempo fica cada vez mais curto, pensando nisso, criar aplicações que tornem o dia a dia mais prático e que ajudem as pessoas a otimizar seu tempo.é que gostaria de fazer pelo mundo.</string>
